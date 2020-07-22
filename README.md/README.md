@@ -4,6 +4,7 @@
 - SASS: https://github.com/german-alvarez-dev/workshop-sass
 - Useful websites: https://github.com/german-alvarez-dev/workshop-useful-websites-webdev
 - Expresiones regulares: https://github.com/german-alvarez-dev/workshop-regex
+- Realidad virtual JS: https://github.com/german-alvarez-dev/workshop-webvr-aframe
 
 # Coasters CRUD
 - Resolución ejercicio CRUD coasters: https://github.com/german-alvarez-dev/class-materials-repaso-crud-resuelto
