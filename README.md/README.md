@@ -8,3 +8,7 @@
 
 # Coasters CRUD
 - Resolución ejercicio CRUD coasters: https://github.com/german-alvarez-dev/class-materials-repaso-crud-resuelto
+
+# Documentaciones
+- Deploy a Heroku I: https://docs.google.com/document/d/1D4KhinM9L5XHXUZmcjauYUfvY_ORU5pk5bKbo5O3uS8/edit?usp=sharing
+- Deploy a Heroku II: https://docs.google.com/document/d/1KQ8GzteqAGnMs7rUJTnJJ_Ps7zfw3djqpGjxNTnf2tY/edit?usp=sharing
